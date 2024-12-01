@@ -32,10 +32,10 @@ Populate the database with sample records (700+ entries) using the provided data
 Run the queries in the queries/ folder to interact with the database. These queries cover operations like adding patients, scheduling appointments, and generating reports.
 
 # Database Schema
-
+![DatabaseSchemaforHMS](DatabaseSchemaforHMS.png)
 
 # ER Diagram
-
+![ERdiagram](ERdiagram.png)
 ## Directory Structure Example:
 
 Healthcare-Management-System/
