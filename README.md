@@ -12,19 +12,6 @@ Medical Records: Maintain and retrieve patient diagnoses and treatment histories
 Database Schema: SQL-based schema defining all necessary tables (patients, doctors, appointments, etc.).
 Performance Queries: Over 100 queries to demonstrate system functionality.
 
-
-## Setup
-1. Clone the Repository
-git clone https://github.com/yourusername/Healthcare-Management-System.git
-cd Healthcare-Management-System
-
-2. Set Up the Database
-Create a new database and import the schema:
-mysql -u username -p
-CREATE DATABASE healthcare_system;
-USE healthcare_system;
-source schema/schema.sql;
-
 3. Insert Sample Data
 Populate the database with sample records (700+ entries) using the provided data in the records/ folder.
 
@@ -32,7 +19,7 @@ Populate the database with sample records (700+ entries) using the provided data
 Run the queries in the queries/ folder to interact with the database. These queries cover operations like adding patients, scheduling appointments, and generating reports.
 
 # Database Schema
-![DatabaseSchemaforHMS](DatabaseSchemaforHMS.png)
+![DatabaseSchemaforHMS](DatabaseSchemaForHMS.png)
 
 # ER Diagram
 ![ERdiagram](ERdiagram.png)
