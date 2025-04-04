@@ -1,4 +1,4 @@
-h
+
 CREATE TABLE Doctor (
     doctor_id VARCHAR(255) PRIMARY KEY,
     first_name VARCHAR(255) NOT NULL,
@@ -20,7 +20,7 @@ VALUES
 ('D9', 'Ethan', 'Martinez', 'Neurology', 'Mon-Wed 10 AM - 4 PM'),
 ('D10', 'Ava', 'Hernandez', 'Dermatology', 'Mon, Thu, Fri 10 AM - 4 PM'),
 ('D11', 'James', 'Lee', 'Cardiology', 'Mon-Fri 9 AM - 5 PM'),
-('D12', 'Isabella', 'Gonzalez', 'General Surgery', 'Mon-Fri 8 AM - 4 PM'),
+('D12', 'Isabella', 'Gonzalez', 'General Surgery',p0 'Mon-Fri 8 AM - 4 PM'),
 ('D13', 'Benjamin', 'Miller', 'Orthopedics', 'Tue-Sun 8 AM - 3 PM'),
 ('D14', 'Charlotte', 'Wilson', 'Pediatrics', 'Mon-Wed 9 AM - 4 PM'),
 ('D15', 'Lucas', 'Moore', 'Neurology', 'Mon-Wed 10 AM - 4 PM'),
